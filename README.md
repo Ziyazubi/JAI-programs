@@ -34,4 +34,5 @@ Here, I have created simple, easy and flexible filters which can be used to edit
     Filename: MyMirrorImage.java
     
 Compile using: javac filename.java
+
 Run using: java filename
